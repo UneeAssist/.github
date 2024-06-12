@@ -7,16 +7,16 @@ Empowering University of Benin Students to Succeed. <br />
 The future for UneeAssist holds immense potential <br />
 as it expands its reach beyond the University of Benin to other Nigerian universities' systems. <br />
 
-## Features
+# Features
 
-# Clearance Assistance
+## Clearance Assistance
 
-# Campus Navigation
+## Campus Navigation
 
-# Lecture Support
+## Lecture Support
 
-# Job Listings
+## Job Listings
 
-# Kofa Portal
+## Kofa Portal
 
-# AI-Powered Support
+## AI-Powered Support
